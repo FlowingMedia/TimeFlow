@@ -151,8 +151,7 @@ public class TimelineVisuals {
 			all=model.getDB().all();
 			createGlobalInterval();
 			Interval i=guessInitialViewInterval(all, globalInterval);
-			timeScale.setDateRange(i.start, i.end);
-			model.setViewInterval(i.copy());
+			setTimeBounds(i.start, i.end);
 		}
 		if (e.affectsRowSet())
 		{

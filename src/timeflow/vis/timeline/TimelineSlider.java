@@ -89,7 +89,7 @@ public class TimelineSlider extends ModelPanel {
 					case END: window().end=Math.max(original.end+timeDiff, original.start+minRange);
 							  window().end=Math.min(window().end, limits.end);
 				}
-				
+				getModel().setViewInterval(window());
 				action.run();
 				repaint();
 			}

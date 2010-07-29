@@ -165,7 +165,7 @@ public class TimelineView extends AbstractView {
 	@Override
 	protected void _note(TFEvent e) {
 		visuals.note(e);
-		reset(true);
+		reset(e.affectsRowSet());
 	}
 	
 	void reset(boolean forceViewChange)
