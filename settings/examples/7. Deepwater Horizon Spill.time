@@ -1,0 +1,61 @@
+#TIMEFLOW	format version	1
+#TIMEFLOW	source	[source unspecified]
+#TIMEFLOW	description	Compiled from news reports, government web sites.
+#TIMEFLOW	field	ID	Number
+#TIMEFLOW	field	Start	Date/Time
+#TIMEFLOW	field	End	Date/Time
+#TIMEFLOW	field	Label	Text	45
+#TIMEFLOW	field	Actors	List
+#TIMEFLOW	field	Tags	List
+#TIMEFLOW	field	Description	Text	272
+#TIMEFLOW	field	Work Status	Text	1
+#TIMEFLOW	field	Source	Text	12
+#TIMEFLOW	field	Link source	URL
+#TIMEFLOW	field	UNPARSED FIELDS	Text	18
+#TIMEFLOW	end-metadata
+#TIMEFLOW	alias	TIMEFLOW_START	Start
+#TIMEFLOW	alias	TIMEFLOW_COLOR	Actors
+#TIMEFLOW	alias	TIMEFLOW_END	End
+#TIMEFLOW	alias	TIMEFLOW_LABEL	Label
+#TIMEFLOW	alias	TIMEFLOW_TRACK	Tags
+#TIMEFLOW	====== End of Header. Data below is in tab-delimited format. =====
+ID	Start	End	Label	Actors	Tags	Description	Work Status	Source	Link source	UNPARSED FIELDS
+1.0	Apr 20 2010		Deepwater Horizon explosion	BP	well	BP's Deepwater Horizon platform explodes, killing 11 workers while starting the largest oil spill in U.S. history. The platform burned for several days and sank into the Gulf of Mexico about 50 miles southeast of Louisiana	P	Various		
+2.0	Apr 23 2010 18:00:00		Coast Guard ends rescue attempt	Coast Guard	well	Coast Guard ended the search for the missing oilmen, 	P	NYT	http://www.nytimes.com/2010/04/24/us/24spill.html?ref=gulf_of_mexico_2010	
+3.0	Apr 24 2010		Leaking oil discovered	Coast Guard	well	The Coast Guard, using a robotic device at the sea floor, discovers that oil is leaking from the well, a development that it called a "game-changer." It estimated about 1,000 barrels a day leaking from the well.	P	NYT	http://www.nytimes.com/2010/04/25/us/25rig.html?ref=gulf_of_mexico_2010	
+4.0	Apr 28 2010		Leak estimate raised by 5 times to 5,000	Coast Guard,NOAA	well	In a hastily called news conference, Rear Adm. Mary E. Landry of the Coast Guard said a scientist from the National Oceanic and Atmospheric Administration had concluded that oil is leaking at the rate of 5,000 barrels a day, not 1,000 as had been estimated". - NYT		NYT	http://www.nytimes.com/2010/04/29/us/29spill.html?ref=gulf_of_mexico_2010	
+6.0	May 1 2010		White House Correspondents' Dinner	Obama		Obama goes to the WHCD before heading to the Gulf	P	NYT	http://www.nytimes.com/2010/05/02/us/02gulf.html?ref=gulf_of_mexico_2010	
+7.0	May 2 2010		Obama visits the Gulf Coast	Obama	cleanup		P	NYT	http://www.nytimes.com/2010/05/02/us/02gulf.html?ref=gulf_of_mexico_2010	
+8.0	Apr 29 2010		Government steps up response	DHS,Obama	cleanup	Obama pledges "every resource" to respond to the fill as Homeland Security Secretary Janet Napolitano calls the event "a spill of national significance," which gives her the option of calling in the Defense Department Obama also says that BP is responsible for the cleanup	P	NYT, Reuters		
+9.0	Apr 30 2010		First indication spill could be much larger	NOAA	well	Mobile Press Register reports on  a NOAA document that says the spill could be "an order of magnitude" bigger than the 5,000 barrels / day estimate	N	NYT	http://www.nytimes.com/2010/05/02/us/02gulf.html?ref=gulf_of_mexico_2010	
+10.0	Aug 1 1990		Oil Pollution Act of 1990	Congress	cleanup	A post-Exxon Valdez law now holds the owner of a rig or vessel responsible for the cleanup	N	NYT	http://www.nytimes.com/2010/05/02/us/02gulf.html?ref=gulf_of_mexico_2010	Approximate date
+12.0	Apr 29 2010		Louisiana declares state of emergency	Jindhal	environment					
+13.0	May 2 2010	Aug 31 2010	BP drills relief well	BP	well	BP begins drilling a relief well in a process that is expected to end in late August. 	N	Various		
+14.0	May 6 2010		First oil washes ashore		environment	"The first oil washes ashore at Chandaleur Islands off the Louisiana coast, an uninhabited barrier island	"	Y	Reuters	http://www.reuters.com/article/idUSN0322326220100603	
+15.0	May 7 2010		Containment dome fails	BP	well	"The containment dome attempted by BP fails because it gets clogged by frozen hydrocarbons	"	N	Reuters	http://www.reuters.com/article/idUSN0322326220100603	
+16.0	May 3 2010		Fishing ban begins	NOAA	environment	Fishing ban declared for at least 10 days. It was later expanded and extended	N	Reuters	http://www.reuters.com/article/idUSN0322326220100603	
+17.0	May 11 2010	May 12 2010	Congress grills oil executives	BP,Halliburton,TransOcean,Congress	regulation	Senate Energy Committee calls oil executives from BP, TransOcean (the operator of the rig) and Halliburton (which created the blowout preventer) into Washington. Sen. Bingham calls the spill a "cascade of errors". 	P	Reuters	http://www.reuters.com/article/idUSN0322326220100603	
+18.0	May 24 2010	May 28 2010 15:45:00	BP attempts "top kill" to shut off flow	BP	well	Part of the well is shut off using the "top kill"method. The gush is reduced to about 				
+19.0	May 5 2010		BP acknowledges much bigger spill	BP	well	BP tells Congress that the spill might be 60,000 barrels a day, not the 5,000 that it had previously said	P	NYT	http://query.nytimes.com/gst/fullpage.html?res=9C06E2DE143EF936A35756C0A9669D8B63&ref=gulf_of_mexico_2010	
+20.0	May 6 2010		MMS questions new drilling in Alaska	MMS,Shell Oil	regulation	Interior official S. Elizabeth Birnbaum asks Shell Oil to provide more details on disaster prevention at a new project in Alaska	P	NYT	http://www.nytimes.com/2010/05/08/us/08alaska.html?ref=gulf_of_mexico_2010	
+21.0	2004		Investigators warnings on blowout preventers		regulation		N	NYT	http://www.nytimes.com/2010/05/08/us/08agency.html?ref=gulf_of_mexico_2010	
+22.0	Sep 14 2009		BP and others resist stricter regulation	BP	regulation	BP said that "extensive, prescriptive" regulations were not necessary to prevent disasters	P	NYT	http://www.boemre.gov/federalregister/PublicComments/AD15SafetyEnvMgmtSysforOCSOilGasOperations/BPAmerica9-14-09.pdf	
+23.0	Jun 17 2009		MMS proposes stricter safety rules	MMS	regulation	MMS proposes a new "safety and emergency management system" in the Federal Register (referenced in BP's comments)	P	BP	http://www.boemre.gov/federalregister/PublicComments/AD15SafetyEnvMgmtSysforOCSOilGasOperations/BPAmerica9-14-09.pdf	
+24.0	May 11 2010		Interior proposes breaking up MMS	Salazar	regulation	Interior secretary Ken Salazar said he would split MMS into one environmental and safetey group and a separate office for leasing and revenue collection	N			
+25.0	May 30 2010		BP says "top kill" failed	BP	well	BP acknowledges that its "top kill" method failed to stem the gusher, and said it would move on to other methods	N	LA Times	http://articles.latimes.com/2010/may/30/nation/la-na-oil-spill-20100530	
+26.0	Apr 28 2010		Obama visits the Gulf Coast	Obama	well	In a visit to the Gulf, Obama says that there will be many false starts and no one knows how to fix the well	N	NYT	http://www.nytimes.com/2010/05/29/us/29spill.html	
+27.0	Dec 1 1998	Feb 28 2001	Deepwater well built in S. Korea		well	Deepwater Horizon rig is built by Hyundai Heavy Industries Shipyard, at a cost of $560 million	N	Guardian	http://www.guardian.co.uk/environment/2010/jun/29/bp-oil-spill-timeline-deepwater-horizon	Approximate date
+28.0	Apr 27 2010		BP announces profit increases	BP		BP posts record profit because of rising oil prices	N	Guardian	http://www.guardian.co.uk/environment/2010/jun/29/bp-oil-spill-timeline-deepwater-horizon	
+29.0	May 4 2010		BP executives in closed Congressional meeting	BP,Congress	politics	Senate wants to increase liability for spills from $75 million to $10 billion as BP executives go to a closed meeting. Obama agrees	N	Guardian	http://www.guardian.co.uk/environment/2010/jun/29/bp-oil-spill-timeline-deepwater-horizon	
+30.0	May 5 2010	May 24 2010	White House begins publishing daily response 	Obama	politics	The White House first publishes an extensive timeline of all administration responses, which it updated throughout May.	P	White House	http://www.whitehouse.gov/blog/2010/05/05/ongoing-administration-wide-response-deepwater-bp-oil-spill	
+31.0	May 13 2010		NYT reports on MMS vs. EPA permits	MMS	regulation	The New York Times reports that the MMS overruled warnings from EPA to give BP and others permits without required environmental studies	N	NYT	http://www.nytimes.com/2010/05/14/us/14agency.html	
+32.0	May 18 2010		Obama announces commission to investigate	Obama	regulation,politics		N	Guardian	http://www.guardian.co.uk/environment/2010/jun/29/bp-oil-spill-timeline-deepwater-horizon	
+33.0	May 30 2010		I would like my life back	BP	politics	Tony Hayward tells reporters " There is no one who wants this over more than I do. I would like my life back" 	N	Guardian	http://www.guardian.co.uk/environment/2010/jun/29/bp-oil-spill-timeline-deepwater-horizon	
+34.0	Jun 3 2010		BP goes through with dividends	BP	politics	BP says it will go ahead with a $10 billion shareholder payout in dividends, setting off British-US tensions 	N	Guardian	http://www.guardian.co.uk/environment/2010/jun/29/bp-oil-spill-timeline-deepwater-horizon	
+35.0	Jun 16 2010		BP agrees to escrow account of $20 billion	BP,Obama	politics,claims	BP agrees to set aside $20 billion to be distributed independently as a down payment on victim compensation				
+36.0	Jun 17 2010		Tony Hayward in Congress	BP,Congress	politics	Bart Stupak and others accuse Hayward of "stonewalling" their investigation.				
+37.0	Jun 20 2010		Hayward attends boat race	BP	politics					
+38.0	Jun 22 2010		Control of BP response given to Bob Dudley	BP	politics	BP replaces Hayward with American Bob Dudley for the response activities. Hayward stays out of sight				
+39.0	Jun 30 2010		Hurricane Alex		cleanup,well	Cleanup and drilling activity stalled as Alex creates dangerous waters.				
+40.0	May 27 2010	Jul 9 2010	Drilling moratorium in Gulf	Salazar	regulation	Interior imposes a moratorium on deepwater drilling in the Outer Continental Shelf, but an appeals court later overturns it.				
+41.0	Jul 12 2010	Nov 30 2010	New drilling moratorium	Salazar	regulations	Interior said it could end sooner if the concerns are met.				
