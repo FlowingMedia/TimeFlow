@@ -68,6 +68,8 @@ public class DateTimeGuesser {
 		parsers.add(new DateTimeParser("EEE MMM dd zzzzzzzz yyyy", TimeUnit.DAY));
 		parsers.add(new DateTimeParser("EEE MMM dd yyyy", TimeUnit.DAY));
 		parsers.add(new DateTimeParser("MMM-yy", TimeUnit.MONTH));
+		parsers.add(new DateTimeParser("MMM yy", TimeUnit.MONTH));
+		parsers.add(new DateTimeParser("MMM/yy", TimeUnit.MONTH));
 		parsers.add(new DateTimeParser("yyyy", TimeUnit.YEAR));
 		parsers.add(new DateTimeParser("yyyy GG", TimeUnit.YEAR));
 	}
