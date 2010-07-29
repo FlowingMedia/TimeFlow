@@ -1,0 +1,11 @@
+#TIMEFLOW	format version	1
+#TIMEFLOW	source	Unspecified
+#TIMEFLOW	description	
+#TIMEFLOW	field	ID	Number
+#TIMEFLOW	field	Date	Date/Time
+#TIMEFLOW	field	Label	Text
+#TIMEFLOW	field	Description	Text
+#TIMEFLOW	field	Work Status	Text
+#TIMEFLOW	end-metadata
+#TIMEFLOW	====== End of Header. Data below is in tab-delimited format. =====
+ID	Date	Label	Description	Work Status

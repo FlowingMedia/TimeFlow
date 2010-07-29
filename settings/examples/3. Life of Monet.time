@@ -1,0 +1,176 @@
+#TIMEFLOW	format version	1
+#TIMEFLOW	source	 David Huynh / SIMILE
+#TIMEFLOW	description	"This is taken from the SIMILE group's data examples, courtesy of David Huynh.
+
+See: http://www.simile-widgets.org/timeline/examples/monet/monet.html
+
+For license information (it's BSD) see:
+http://simile.mit.edu/license.html
+"
+#TIMEFLOW	field	Earliest End	Date/Time
+#TIMEFLOW	field	End	Date/Time
+#TIMEFLOW	field	Latest Start	Date/Time
+#TIMEFLOW	field	Long Description	Text
+#TIMEFLOW	field	Start	Date/Time
+#TIMEFLOW	field	title	Text
+#TIMEFLOW	field	color	Text
+#TIMEFLOW	field	icon	Text
+#TIMEFLOW	field	image	Text
+#TIMEFLOW	field	isDuration	Text
+#TIMEFLOW	field	link	Text
+#TIMEFLOW	end-metadata
+#TIMEFLOW	alias	TIMEFLOW_START	Start
+#TIMEFLOW	alias	TIMEFLOW_EARLIEST_END	Earliest End
+#TIMEFLOW	alias	TIMEFLOW_END	End
+#TIMEFLOW	alias	TIMEFLOW_LABEL	title
+#TIMEFLOW	alias	TIMEFLOW_LATEST_START	Latest Start
+#TIMEFLOW	====== End of Header. Data below is in tab-delimited format. =====
+Earliest End	End	Latest Start	Long Description	Start	title	color	icon	image	isDuration	link
+			"
+        Claude Monet, also known as Oscar-Claude Monet or Claude Oscar Monet
+        was born to Adolphe and Louise-Justine Monet of 45 Rue Laffitte, 
+        in the 9th arrondissement of Paris. 
+        <p>
+            He was christened as Oscar-Claude at the church of 
+            Notre-Dame-de-Lorette. His father wanted him to go into the family 
+            (grocery store) business, but Claude Monet wanted to become an artist. 
+            His mother was a singer, both parents were second-generation Parisians.
+        </p>
+        "	Nov 14 1840	Birth			monet.png		http://en.wikipedia.org/wiki/Monet
+	1846		"
+        "	1845	Family moved to Le Havre, Normandy					
+			"
+        On the first of April 1851 Monet entered the Le Havre secondary school. 
+        He first became known locally for his charcoal caricatures, which he 
+        would sell for ten to twenty francs. Monet also undertook his first 
+        drawing lessons from Jean-Francois Ochard, a former student of 
+        Jacques-Louis David (1748 - 1825). On the beaches of Normandy, he met 
+        fellow artist Eugène Boudin, who became his mentor and taught him to 
+        use oil paints. Boudin taught Monet en plein air (outdoor) techniques 
+        for painting.
+        "	Apr 1 1851	Entered Le Havre secondary school					
+			"
+        On 28 January, 1857 his mother died. Now 16 years old, he left school 
+        and his widowed, childless aunt Marie-Jeanne took him into her home.
+        "	Jan 28 1857	Mother died					
+Jun 1 1863	Jul 1 1863	Jul 1 1861	"
+        In June of 1861 Monet joined the First Regiment of African Light Cavalry 
+        in Algeria for two years of a seven-year commitment, but upon his 
+        contracting typhoid his aunt Madame Lecadre intervened to get him out 
+        of the army if he agreed to complete an art course at a university. 
+        It is also possible that the Dutch painter Johan Barthold Jongkind 
+        (whom Monet knew) may have prompted his aunt on this matter.
+        "	Jun 1 1861	Joined Cavalry in Algeria				true	
+	1863		"
+        Disillusioned with the traditional art taught at universities, instead 
+        in 1862 he joined the studio of Charles Gleyre in Paris, where he met 
+        Pierre-Auguste Renoir, Frederic Bazille, and Alfred Sisley. Together 
+        they shared new approaches to art, which later came to be known as 
+        impressionism, featuring open spaces and light painted with thick 
+        brushstrokes.
+        "	1862	Joined studio of Charles Gleyre in Paris					
+	1867		"
+        Monet's 1866 Camille or The Woman in the Green Dress (La Femme à la 
+        Robe Verte), which brought him recognition, depicted Camille Doncieux. 
+        Shortly thereafter Doncieux became pregnant and bore their first child, 
+        Jean. 
+        "	1866	Camille		green-circle.png			
+	1869		"
+        In 1868, Monet attempted suicide but failed to do so.
+        "	1868	Attempted suicide					
+	1871		"
+        During the Franco-Prussian War (1870–1871), Monet took refuge in England 
+        to avoid the conflict. There he studied the works of John Constable and 
+        J. M. W. Turner.
+        "	1870	Took refuge in England					
+1878	1879	1872	"
+        From 1871 to 1878 Monet lived at Argenteuil, a village on the Seine near 
+        Paris, and here were painted some of his best known works.
+        "	1871	Lived at Argenteuil, near Paris				true	
+	1873		"
+        Upon returning to France, in 1872 (or 1873) he painted Impression, Sunrise 
+        (Impression, soleil levant) depicting a Le Havre landscape. It hung in the 
+        first impressionist exhibition in 1874 and is now displayed in the 
+        Musée Marmottan-Monet, Paris. From the painting's title, art critic Louis 
+        Leroy coined the term ""impressionism"", which he intended to be derogatory.
+        "	1872	Impression, Sunrise		green-circle.png	impression-sunrise.png		http://en.wikipedia.org/wiki/Image:Claude_Monet%2C_Impression%2C_soleil_levant%2C_1872.jpg
+	1871		"
+        In 1870, Monet and Doncieux married and in 1873 moved into a house in 
+        Argenteuil near the Seine River.
+        "	1870	Married Doncieux					
+	1874		"
+        Some of Claude Monet's best known work was done in Argenteuil, including 
+        one of his famous garden scenes Monet's Garden at Argenteuil which he 
+        painted in 1873.
+        "	1873	Monet's Garden at Argenteuil		green-circle.png	http://www.accents-n-art.com/artwork/M00279ss.jpg		http://www.accents-n-art.com/artists/claude_monet/monets-garden-at-argenteuil.html
+	1879		"
+        He worked almost exclusively in Argenteuil from 1875 to 1878. The Seine at 
+        Argenteuil was one of his famous paintings during this period. The painting 
+        was recently featured in the hit movie Vanilla Sky, starring Tom Cruise and 
+        Cameron Diaz.
+        "	1875	The Seine at Argenteuil		green-circle.png	http://www.accents-n-art.com/artwork/M00506ss.jpg		http://www.accents-n-art.com/artists/claude_monet/the-seine-at-argenteuil.html
+			"
+        Monet and Doncieux had another son, Michel, on March 17, 1878.
+        "	Mar 18 1878	Second son Michel born					
+	1880		"
+        Madame Monet died of tuberculosis in 1879.
+        "	1879	Doncieux died					
+	May 1 1883		"
+        Alice Hoschedé decided to help Monet by bringing up his two children 
+        together with her own. They lived in Poissy, which Monet hated. 
+        In April 1883 they moved to a house in Giverny, Eure, in Haute-Normandie, 
+        where he planted a large garden which he painted for the rest of his life.
+        "	Apr 1 1883	Moved to Giverny with Alice Hoschedé					
+	1893		"
+        Monet and Hoschedé married in 1892.
+        "	1892	Married Hoschedé					
+1895	1900	1885	"
+        In the 1880s and 1890s, Monet began ""series"" painting: paintings of 
+        one subject in varying light and viewpoints. His first series is of 
+        Rouen Cathedral from different points of view and at different times 
+        of the day.
+        "	1880	'Series' painting				true	
+	1896		"
+        Twenty views of Monet's Rouen cathedral were exhibited at the Durand-Ruel 
+        gallery in 1895.
+        "	1895	Durand-Ruel gallery					
+	1890		"
+        Monet was exceptionally fond of painting controlled nature: his own garden 
+        in Giverny, with its water lilies, pond and bridge. He also painted up and 
+        down the banks of the Seine.
+        "	1889	Water Lily Pond		green-circle.png	water-lily-pond.png		http://en.wikipedia.org/wiki/Image:Monet.waterlilies.500pix.jpg
+	1909		"
+        Claude Monet made several trips to the Mediterranean between 1883 and 1908. 
+        During these visits he painted many landscapes and seascapes such as 
+        Bordighera. Famous landmarks were also a favorite subject for Monet in the 
+        Mediterranean. His paintings in Venice included the Grand Canal, Doges' Palace, 
+        and San Giorgio Maggiore. The Monet painting that was stolen in the movie The 
+        Thomas Crown Affair was San Giorgio Maggiore at Dusk.
+        "	1883	Painted landscapes and seascapes	#0a0		http://www.accents-n-art.com/artwork/M00358ss.jpg	true	http://www.accents-n-art.com/artists/claude_monet/san-giorgio-maggiore-at-dusk.html
+	1884		"
+        Monet moved to Giverny, France in 1883. Shortly after his arrival in Giverny, 
+        Claude began developing the famous garden that was the inspiration for many 
+        of his most famous paintings. The Artist's Garden in Giverny is one of the 
+        most popular paintings. His garden in Giverny grew to include a water garden 
+        and a japanese style bridge. Water lilies and the Japanese bridge were the subject 
+        of many Monet paintings.
+        "	1883	The Artist's Garden in Giverny		green-circle.png	http://www.accents-n-art.com/artwork/M00006ss.jpg		http://www.accents-n-art.com/artists/claude_monet/monets-garden-the-irises.html
+	1912		"
+        "	1911	Second wife died					
+	1915		"
+        "	1914	Son Jean died					
+	1924		"
+        Cataracts formed on his eyes for which he underwent two surgeries in 1923. 
+        It is interesting to note that the paintings done while the cataracts affected 
+        his vision have a general reddish tone, which is a characteristic of the vision 
+        of cataract victims. It may also be that after his surgery, he was now able to 
+        see certain ultraviolet wavelengths of light that are normally excluded by the 
+        lens of the eye; this may have had an effect on the colors he perceived. After 
+        his operations he even repainted some of these paintings. 
+        "	1923	Underwent 2 cataract surgeries					
+			"
+        Monet died December 5, 1926 at the age of 86 and is buried in the Giverny 
+        church cemetery. His famous home and garden with its waterlily pond and bridge 
+        at Giverny are a popular drawcard for tourists. In the house there are many 
+        examples of Japanese woodcut prints on the walls.
+    "	Dec 5 1926	Death					
