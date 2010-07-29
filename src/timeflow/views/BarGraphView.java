@@ -222,6 +222,7 @@ public class BarGraphView extends AbstractView {
 					}
 				}
 			}
+			revalidate();
 			repaint();
 		}
 		
