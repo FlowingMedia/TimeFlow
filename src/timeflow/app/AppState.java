@@ -12,6 +12,11 @@ public class AppState {
 	
 	public AppState()
 	{
+		if (!new File(FILE).exists())
+		{
+			System.err.println("No existing settings file found.");
+			return;
+		}
 		try
 		{
 			for (String line: IO.lines(FILE))
